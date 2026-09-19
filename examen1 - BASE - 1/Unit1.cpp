@@ -151,9 +151,8 @@ void CargarDonut(TStringGrid *m, byte f, byte c, byte nf, byte nc, byte d) {
 	}
 }
 
-void __fastcall TForm1::Button4Click(TObject *Sender) {
-	// 3
 
+void __fastcall TForm1::Button4Click(TObject *Sender) {
 	byte m = StrToInt(Edit1->Text);
 	byte n = StrToInt(Edit2->Text);
 	byte d = StrToInt(Edit3->Text);
@@ -162,5 +161,4 @@ void __fastcall TForm1::Button4Click(TObject *Sender) {
 	StringGrid1->ColCount = n;
 
 	CargarDonut(StringGrid1, 0, 0, m, n, d);
-
 }
