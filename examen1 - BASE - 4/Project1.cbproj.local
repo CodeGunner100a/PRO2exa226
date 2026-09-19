@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/09/15 21:33:37.000.672,=D:\2026 Program 2 Proys\Project1PCH1.h</Transaction>
+    <Transaction>2026/09/15 21:33:38.000.500,=D:\2026 Program 2 Proys\Unit1.cpp</Transaction>
+    <Transaction>2026/09/15 21:46:16.000.280,D:\2026 Program 2 Proys\Project1PCH1.h=D:\2026 Program 2 Proys\Modelos de examen 2_2026\Project1PCH1.h</Transaction>
+    <Transaction>2026/09/15 21:46:16.000.407,D:\2026 Program 2 Proys\Project1.cbproj=D:\2026 Program 2 Proys\Modelos de examen 2_2026\Project1.cbproj</Transaction>
+    <Transaction>2026/09/15 21:46:16.000.326,D:\2026 Program 2 Proys\Unit1.h=D:\2026 Program 2 Proys\Modelos de examen 2_2026\Unit1.h</Transaction>
+    <Transaction>2026/09/15 21:46:16.000.326,D:\2026 Program 2 Proys\Unit1.dfm=D:\2026 Program 2 Proys\Modelos de examen 2_2026\Unit1.dfm</Transaction>
+    <Transaction>2026/09/15 21:46:16.000.326,D:\2026 Program 2 Proys\Unit1.cpp=D:\2026 Program 2 Proys\Modelos de examen 2_2026\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
